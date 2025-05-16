@@ -1,4 +1,10 @@
 numpy
 pandas
 seaborn
+scikit-learn
+catboost
+xgboost
+
 # -e. automatically trigers setup.py file
+#.\venv\Scripts\Activate.ps1
+
