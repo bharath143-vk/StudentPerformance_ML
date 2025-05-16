@@ -4,6 +4,7 @@ seaborn
 scikit-learn
 catboost
 xgboost
+dill
 
 # -e. automatically trigers setup.py file
 #.\venv\Scripts\Activate.ps1
