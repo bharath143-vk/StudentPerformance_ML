@@ -1,10 +1,30 @@
+# Ignore Python virtual environments
 venv/
+env/
+ENV/
+.venv/
+
+# Ignore Python cache files
 __pycache__/
-*.pyc
+*.py[cod]
 *.pyo
 *.pyd
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore logs and temporary files
 *.log
-*.db
-*.sqlite3
-.env
+*.tmp
+*.swp
+*.bak
+
+# Ignore OS-specific files
 .DS_Store
+Thumbs.db
+
+# Ignore Git files
+.git/
+.gitignore
+
+

@@ -1,3 +1,4 @@
+flask
 numpy
 pandas
 seaborn
@@ -9,3 +10,4 @@ dill
 # -e. automatically trigers setup.py file
 #.\venv\Scripts\Activate.ps1
 
+#docker build --no-cache -t student-performance-app .
