@@ -27,4 +27,6 @@ Thumbs.db
 .git/
 .gitignore
 
+/notes.txt
+
 
